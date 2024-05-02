@@ -1,1 +1,1 @@
-Docker cointainer based on nginx alpine, with a fullscreen clock on index.html
+Docker container based on nginx alpine, with a fullscreen clock as index.html
